@@ -22,13 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/DimaWR/dimagen.git"
   },
   "keywords": [
     "simple",
-    "blog",
-    "kevin14",
+    "site",
+    "generator",
     "nodejs"
   ],
   "author": "dimakotok",
+  "homepage": "https://github.com/DimaWR/dimagen"
 }
