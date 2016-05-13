@@ -1,0 +1,34 @@
+{
+  "name": "dimagen",
+  "version": "0.0.1",
+  "description": "HTML Generator",
+  "main": "lib/index",
+  "bin": "./bin/dimagen",
+  "dependencies": {
+    "async": "~0.9.0",
+    "colors": "~1.0.3",
+    "connect": "~3.3.4",
+    "connect-power-route": "0.0.1",
+    "jade": "~1.9.1",
+    "marked": "^0.3.3",
+    "minimist": "~1.1.0",
+    "path-to-regexp": "~1.0.3",
+    "underscore": "~1.7.0",
+    "yamljs": "~0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "simple",
+    "blog",
+    "kevin14",
+    "nodejs"
+  ],
+  "author": "dimakotok",
+}
